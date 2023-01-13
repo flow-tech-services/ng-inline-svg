@@ -1,6 +1,6 @@
 {
   "name": "ng-inline-svg",
-  "version": "13.1.2",
+  "version": "14.2.10",
   "description": "Angular directive for inserting an SVG inline within an element.",
   "repository": {
     "type": "git",
@@ -38,17 +38,17 @@
     "prepare": "npm run build"
   },
   "peerDependencies": {
-    "@angular/common": "^13.3.11",
-    "@angular/core": "^13.3.11",
+    "@angular/common": "^14.2.10",
+    "@angular/core": "^14.2.10",
     "rxjs": "^7.5.6"
   },
   "devDependencies": {
-    "@angular/common": "^13.3.11",
-    "@angular/compiler": "^13.3.11",
-    "@angular/compiler-cli": "^13.3.11",
-    "@angular/core": "^13.3.11",
-    "@angular/platform-browser": "^13.3.1",
-    "@types/node": "^18.11.5",
+    "@angular/common": "^14.2.10",
+    "@angular/compiler": "^14.2.10",
+    "@angular/compiler-cli": "^14.2.10",
+    "@angular/core": "^14.2.10",
+    "@angular/platform-browser": "^14.2.12",
+    "@types/node": "^18.11.18",
     "rimraf": "^3.0.2",
     "rxjs": "^7.5.6",
     "tslint": "^6.1.3",
